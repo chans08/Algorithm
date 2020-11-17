@@ -1,3 +1,5 @@
+package com.algorithm2020.qualification;
+
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
@@ -26,7 +28,7 @@ import java.util.Set;
  * @author CMN
  *
  */
-public class QualificationRound2020 {
+public class Vestigium {
 	private static int T;
 	private static int N;
 	private static int[][] matrix;
