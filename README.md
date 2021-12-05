@@ -1,7 +1,7 @@
 # Algorithm
 daily algorithm solving records.
 
-## Algorithmer3\
+## Algorithmer3
 - 2021-12-05
   - problem
     1. basic
