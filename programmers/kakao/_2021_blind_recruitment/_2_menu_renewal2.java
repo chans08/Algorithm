@@ -29,8 +29,10 @@ public class _2_menu_renewal2 {
 			TreeMap<String, Integer> menuToCntMap = new TreeMap<>();
 			boolean[] visited;
 			for (String order : orders) {
+				if (order.length() < course) {
+                    continue;
+                }
 				order = getAscAlphabets(order);
-				
 				visited = new boolean[order.length()];
 				combination(order, visited, menuToCntMap, 0, order.length(), course);
 			}
