@@ -2,6 +2,13 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2021-12-12
+  - problem
+    1. basic
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/step/_21/binary_search/_1_1920_search_num.java >> 수 찾기 (백준 이분 탐색 부분)
+    2. advanced
+      - https://github.com/chans08/Algorithm/blob/master/programmers/kakao/_2021_blind_recruitment/_3_rank_search2.java >> 문제3 - 순위 검색
+
 - 2021-12-05
   - problem
     1. basic
