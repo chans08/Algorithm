@@ -7,7 +7,7 @@ daily algorithm solving records.
     1. basic
       - https://www.acmicpc.net/problem/1753 >> 최단경로 (백준 최단 경로 부분)
     2. advanced
-      - https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1 >> 문제5 - 합승 택시 요금
+      - https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1 >> 문제4 - 합승 택시 요금
 
 - 2021-12-05
   - problem
