@@ -8,6 +8,11 @@ daily algorithm solving records.
       - https://www.acmicpc.net/problem/1753 >> 최단경로 (백준 최단 경로 부분)
     2. advanced
       - https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1 >> 문제4 - 합승 택시 요금
+  - solving
+    1. basic
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/step/_21/binary_search/_1_1920_search_num.java >> 최단경로 (백준 최단 경로 부분)
+    2. advanced
+      - https://github.com/chans08/Algorithm/blob/master/programmers/kakao/_2021_blind_recruitment/_3_rank_search2.java >> 문제4 - 합승 택시 요금
 
 - 2021-12-05
   - problem
