@@ -3,7 +3,7 @@ daily algorithm solving records.
 
 ## Algorithmer3
 - 2021-12-20
-  - problem(Programmers - 코딩테스트 고득점 Kit - 완전탐색)
+  - problem([Programmers - 코딩테스트 고득점 Kit - 완전탐색](https://programmers.co.kr/learn/courses/30/parts/12230))
     1. 모의고사
       - https://programmers.co.kr/learn/courses/30/lessons/42840
     2. 소수 찾기
