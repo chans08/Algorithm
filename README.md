@@ -2,7 +2,7 @@
 daily algorithm solving records.
 
 ## Algorithmer3
-- 2021-12-20
+- 2021-12-19
   - problem([Programmers - 코딩테스트 고득점 Kit - 완전탐색](https://programmers.co.kr/learn/courses/30/parts/12230))
     1. 모의고사
       - https://programmers.co.kr/learn/courses/30/lessons/42840
@@ -11,7 +11,12 @@ daily algorithm solving records.
 	3. 카펫
       - https://programmers.co.kr/learn/courses/30/lessons/42842
   - solving
-    
+    1. 모의고사
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_5_brute_force_search/_1_mock_test2.java
+    2. 소수 찾기
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_5_brute_force_search/_2_find_prime_num3.java
+	3. 카펫
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_5_brute_force_search/_3_carpet.java
 
 - 2021-12-12
   - problem
