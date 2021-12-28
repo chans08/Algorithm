@@ -2,7 +2,8 @@
 daily algorithm solving records.
 
 ## Algorithmer3
-- 2021-12-29([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
+- 2021-12-29
+  - problem([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
     1. 타겟 넘버
       - https://programmers.co.kr/learn/courses/30/lessons/43165
 
