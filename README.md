@@ -6,6 +6,9 @@ daily algorithm solving records.
   - problem([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
     1. 타겟 넘버
       - https://programmers.co.kr/learn/courses/30/lessons/43165
+  - solving
+    1. 타겟 넘버
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_8_dfs_bfs/_1_tartget_num2.java
 
 - 2021-12-19
   - problem([Programmers - 코딩테스트 고득점 Kit - 완전탐색](https://programmers.co.kr/learn/courses/30/parts/12230))
