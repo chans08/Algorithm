@@ -74,21 +74,21 @@ public class _2_find_prime_num3 {
 	private static Set<Integer> getAllNums(char[] numbers) {
 		Set<Integer> rtnSet = new HashSet<>();
 		for (int r=1; r<=numbers.length; r++) {
-			System.out.println("r: rtnList: " + r + ": " + rtnSet);
+			//System.out.println("r: rtnList: " + r + ": " + rtnSet);
 			permutation(rtnSet, numbers, new boolean[numbers.length], numbers.length, r, "");
 		}
 		return rtnSet;
 	}
 	
-	private static void permutation(Set<Integer> rtnList, char[] numbers, boolean[] isPicked, int n, int r, String output) {
+	private static void permutation(Set<Integer> rtnSet, char[] numbers, boolean[] isPicked, int n, int r, String output) {
 		if (r == 0) {
-			rtnList.add(Integer.parseInt(output));
+			rtnSet.add(Integer.parseInt(output));
 			return;
 		}
 		for (int i=0; i<n; i++) {
 			if (isPicked[i]) continue;
 			isPicked[i] = true;
-			permutation(rtnList, numbers, isPicked, n, r-1, output + numbers[i]);
+			permutation(rtnSet, numbers, isPicked, n, r-1, output + numbers[i]);
 			isPicked[i] = false;
 		}
 	}
