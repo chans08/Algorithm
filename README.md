@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-01-02
+  - problem([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
+    2. 네트워크
+      - https://programmers.co.kr/learn/courses/30/lessons/43162
+	3. 단어 변환
+      - https://programmers.co.kr/learn/courses/30/lessons/43163
+  - solving
+    2. 네트워크
+      - 
+	3. 단어 변환
+      - 
+
 - 2021-12-29
   - problem([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
     1. 타겟 넘버
