@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/43163
   - solving
     1. 네트워크
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_8_dfs_bfs/_2_network3.java
 	2. 단어 변환
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_8_dfs_bfs/_3_word_conversion2.java
 
 - 2021-12-29
   - problem([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
