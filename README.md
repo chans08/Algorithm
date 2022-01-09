@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-01-09
+  - problem
+    1. 여행경로([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
+      - https://programmers.co.kr/learn/courses/30/lessons/43164
+	2. 바이러스([BOJ - DFS와 BFS](https://www.acmicpc.net/step/24))
+      - https://www.acmicpc.net/problem/2606
+  - solving
+    1. 여행경로
+      - 
+	2. 바이러스 변환
+      - 
+
 - 2022-01-02
   - problem([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
     1. 네트워크
