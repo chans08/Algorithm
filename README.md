@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-01-16
+  - problem([Programmers - 코딩테스트 고득점 Kit - 해시](https://programmers.co.kr/learn/courses/30/parts/12077))
+    1. 완주하지 못한 선수
+      - https://programmers.co.kr/learn/courses/30/lessons/42576
+	2. 전화번호 목록
+      - https://programmers.co.kr/learn/courses/30/lessons/42577
+  - solving
+    1. 완주하지 못한 선수
+      - 
+	2. 전화번호 목록
+      - 
+
 - 2022-01-09
   - problem
     1. 여행경로([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
