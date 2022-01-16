@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://www.acmicpc.net/problem/2606
   - solving
     1. 여행경로
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_8_dfs_bfs/_4_travel_route.java
 	2. 바이러스 변환
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/step/_24/dfs_bfs/_2_2606_virus.java
 
 - 2022-01-02
   - problem([Programmers - 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://programmers.co.kr/learn/courses/30/parts/12421))
