@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42577
   - solving
     1. 완주하지 못한 선수
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_1_hash/_1_athlete_who_did_not_finish2.java
 	2. 전화번호 목록
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_1_hash/_2_phone_num_list.java
 
 - 2022-01-09
   - problem
