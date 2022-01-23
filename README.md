@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-01-23
+  - problem([Programmers - 코딩테스트 고득점 Kit - 해시](https://programmers.co.kr/learn/courses/30/parts/12077))
+    1. 위장
+      - https://programmers.co.kr/learn/courses/30/lessons/42578
+	2. 베스트앨범
+      - https://programmers.co.kr/learn/courses/30/lessons/42579
+  - solving
+    1. 위장
+      - 
+	2. 베스트앨범
+      - 
+
 - 2022-01-16
   - problem([Programmers - 코딩테스트 고득점 Kit - 해시](https://programmers.co.kr/learn/courses/30/parts/12077))
     1. 완주하지 못한 선수
