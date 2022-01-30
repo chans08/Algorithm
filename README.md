@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42579
   - solving
     1. 위장
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_1_hash/_3_camouflage5_just_practice.java
 	2. 베스트앨범
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_1_hash/_4_best_album3_just_practice.java
 
 - 2022-01-16
   - problem([Programmers - 코딩테스트 고득점 Kit - 해시](https://programmers.co.kr/learn/courses/30/parts/12077))
