@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-01-30
+  - problem([BOJ - 해시])
+    1. 나는야 포켓몬 마스터 이다솜
+      - https://www.acmicpc.net/problem/1620
+	2. 서로 다른 부분 문자열의 개수
+      - https://www.acmicpc.net/problem/11478
+  - solving
+    1. 나는야 포켓몬 마스터 이다솜
+      - 
+	2. 서로 다른 부분 문자열의 개수
+      - 
+
 - 2022-01-23
   - problem([Programmers - 코딩테스트 고득점 Kit - 해시](https://programmers.co.kr/learn/courses/30/parts/12077))
     1. 위장
