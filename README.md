@@ -94,7 +94,7 @@ daily algorithm solving records.
       - https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1 >> 문제4 - 합승 택시 요금
   - solving
     1. basic
-      - https://github.com/chans08/Algorithm/blob/master/backjoon/step/_25/shortest_path/_1_1753_shortest_path.java 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/step/_25/shortest_path/_1_1753_shortest_path4.java
     2. advanced
       - https://github.com/chans08/Algorithm/blob/master/programmers/kakao/_2021_blind_recruitment/_3_rank_search2.java 
 
