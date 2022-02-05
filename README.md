@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://www.acmicpc.net/problem/11478
   - solving
     1. 나는야 포켓몬 마스터 이다솜
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/hashing/_1620_i_am_poketmon_master_leedasom.java
 	2. 서로 다른 부분 문자열의 개수
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/hashing/_11478_different_string_cnt.java
 
 - 2022-01-23
   - problem([Programmers - 코딩테스트 고득점 Kit - 해시](https://programmers.co.kr/learn/courses/30/parts/12077))
