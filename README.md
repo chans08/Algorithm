@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-02-06
+  - problem([Programmers - 코딩테스트 고득점 Kit - 정렬](https://programmers.co.kr/learn/courses/30/parts/12198))
+    1. K번째수
+      - https://programmers.co.kr/learn/courses/30/lessons/42748
+	2. 가장 큰 수
+      - https://programmers.co.kr/learn/courses/30/lessons/42746
+  - solving
+    1. K번째수
+      - 
+	2. 가장 큰 수
+      - 
+
 - 2022-01-30
   - problem([BOJ - 해시])
     1. 나는야 포켓몬 마스터 이다솜
