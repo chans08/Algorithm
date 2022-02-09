@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42746
   - solving
     1. K번째수
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_4_sort/_1_kth_num2_practice.java
 	2. 가장 큰 수
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_4_sort/_2_biggest_num3_practice.java
 
 - 2022-01-30
   - problem([BOJ - 해시])
