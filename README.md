@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-02-13
+  - problem
+    1. H-Index
+      - https://programmers.co.kr/learn/courses/30/lessons/42747
+	2. 시리얼 번호
+      - https://www.acmicpc.net/problem/1431
+  - solving
+    1. H-Index
+      - 
+	2. 시리얼 번호
+      - 
+
 - 2022-02-06
   - problem([Programmers - 코딩테스트 고득점 Kit - 정렬](https://programmers.co.kr/learn/courses/30/parts/12198))
     1. K번째수
