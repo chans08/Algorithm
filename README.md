@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://www.acmicpc.net/problem/1431
   - solving
     1. H-Index
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/hightscore/kit/_4_sort/_3_h_index3_practice.java
 	2. 시리얼 번호
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/sort/_1431_serial_number.java
 
 - 2022-02-06
   - problem([Programmers - 코딩테스트 고득점 Kit - 정렬](https://programmers.co.kr/learn/courses/30/parts/12198))
