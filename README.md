@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-02-20
+	- problem([Programmers - 코딩테스트 고득점 Kit - 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081))
+    1. 기능개발
+      - https://programmers.co.kr/learn/courses/30/lessons/42586
+	2. 프린터
+      - https://programmers.co.kr/learn/courses/30/lessons/42587
+  - solving
+    1. 기능개발
+      - 
+	2. 프린터
+      - 
+
 - 2022-02-13
   - problem
     1. H-Index
