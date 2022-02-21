@@ -15,7 +15,7 @@ daily algorithm solving records.
       - 
 
 - 2022-02-13
-  - problem
+  - problem(Programmers, BOJ: 정렬)
     1. H-Index
       - https://programmers.co.kr/learn/courses/30/lessons/42747
 	2. 시리얼 번호
