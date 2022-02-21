@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42587
   - solving
     1. 기능개발
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_2_stack_queue/_1_feature_development2.java
 	2. 프린터
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_2_stack_queue/_2_printer2.java
 
 - 2022-02-13
   - problem(Programmers, BOJ: 정렬)
