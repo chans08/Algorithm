@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-02-27
+  - problem([Programmers - 코딩테스트 고득점 Kit - 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081))
+    1. 다리를 지나는 트럭
+      - https://programmers.co.kr/learn/courses/30/lessons/42583
+	2. 주식가격
+      - https://programmers.co.kr/learn/courses/30/lessons/42584
+  - solving
+    1. 다리를 지나는 트럭
+      - 
+	2. 주식가격
+      - 
+
 - 2022-02-20
   - problem([Programmers - 코딩테스트 고득점 Kit - 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081))
     1. 기능개발
