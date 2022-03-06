@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42584
   - solving
     1. 다리를 지나는 트럭
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_2_stack_queue/_3_truck_crossing_the_bridge.java
 	2. 주식가격
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_2_stack_queue/_4_stock_price.java
 
 - 2022-02-20
   - problem([Programmers - 코딩테스트 고득점 Kit - 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081))
