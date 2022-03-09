@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-03-06
+  - problem([Programmers - 코딩테스트 고득점 Kit - 힙(Heap)](https://programmers.co.kr/learn/courses/30/parts/12117))
+    1. 더 맵게
+      - https://programmers.co.kr/learn/courses/30/lessons/42626
+	2. 디스크 컨트롤러
+      - https://programmers.co.kr/learn/courses/30/lessons/42627
+  - solving
+    1. 더 맵게
+      - 
+	2. 디스크 컨트롤러
+      - 
+
 - 2022-02-27
   - problem([Programmers - 코딩테스트 고득점 Kit - 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081))
     1. 다리를 지나는 트럭
