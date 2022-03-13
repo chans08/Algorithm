@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42627
   - solving
     1. 더 맵게
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_3_heap/_1_more_spicy.java
 	2. 디스크 컨트롤러
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_3_heap/_2_disk_controller4.java
 
 - 2022-02-27
   - problem([Programmers - 코딩테스트 고득점 Kit - 스택/큐](https://programmers.co.kr/learn/courses/30/parts/12081))
