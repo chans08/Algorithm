@@ -13,16 +13,16 @@ package codingtest.highscore.kit._3_heap;
 테스트 8 〉	실패 (시간 초과)
 테스트 9 〉	실패 (시간 초과)
 테스트 10 〉	실패 (시간 초과)
-테스트 11 〉	실패 (2.68ms, 63.5MB)
-테스트 12 〉	실패 (51.16ms, 69.4MB)
-테스트 13 〉	실패 (42.14ms, 87.2MB)
-테스트 14 〉	실패 (0.50ms, 77.2MB)
-테스트 15 〉	실패 (0.34ms, 63.2MB)
-테스트 16 〉	통과 (0.60ms, 73.5MB)
-테스트 17 〉	실패 (0.32ms, 71.5MB)
-테스트 18 〉	실패 (0.27ms, 68.1MB)
-테스트 19 〉	통과 (0.39ms, 77.2MB)
-테스트 20 〉	통과 (0.31ms, 74.9MB)
+테스트 11 〉	실패 (1.51ms, 78.7MB)
+테스트 12 〉	통과 (41.73ms, 85.4MB)
+테스트 13 〉	실패 (43.27ms, 92.3MB)
+테스트 14 〉	실패 (0.36ms, 73.9MB)
+테스트 15 〉	통과 (0.31ms, 67.6MB)
+테스트 16 〉	통과 (0.34ms, 72.9MB)
+테스트 17 〉	통과 (0.24ms, 79.4MB)
+테스트 18 〉	통과 (0.33ms, 86.2MB)
+테스트 19 〉	통과 (0.24ms, 75.7MB)
+테스트 20 〉	통과 (0.19ms, 76.9MB)
  * @author CMN
  * @date 2022-03-11
  */
@@ -90,18 +90,20 @@ public class _2_disk_controller {
 	}
 	
 	private static int getMean(int[][] jobs) {
-		double sum = 0;
+		//double sum = 0;
+		int sum = 0;
 		int preJobEnd = jobs[0][0] + jobs[0][1];
-        sum += jobs[0][1] - jobs[0][0];
+        sum += jobs[0][1];
         for (int i=1; i<jobs.length; i++) {
         	if (jobs[i][0] < preJobEnd) {
-        		preJobEnd = jobs[i][1] + preJobEnd;
+        		preJobEnd += jobs[i][1];
         	} else {
         		preJobEnd = jobs[i][0] + jobs[i][1];
         	}
         	sum += preJobEnd - jobs[i][0];
         	//System.out.println("sum: " + sum);
         }
-        return (int)Math.floor(sum / jobs.length);
+        //return (int)Math.floor(sum / jobs.length);
+        return sum / jobs.length;
 	}
 }
