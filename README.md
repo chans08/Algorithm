@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42862
   - solving
     1. 이중우선순위큐
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_3_heap/_3_double_priority_queue.java
 	2. 체육복
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_6_greedy/_1_gym_suit2.java
 
 - 2022-03-06
   - problem([Programmers - 코딩테스트 고득점 Kit - 힙(Heap)](https://programmers.co.kr/learn/courses/30/parts/12117))
