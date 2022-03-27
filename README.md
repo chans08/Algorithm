@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-03-27
+  - problem([Programmers - 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://programmers.co.kr/learn/courses/30/parts/12244))
+    1. 구명보트
+      - https://programmers.co.kr/learn/courses/30/lessons/42885
+	2. 섬 연결하기
+      - https://programmers.co.kr/learn/courses/30/lessons/42861
+  - solving
+    1. 구명보트
+      - 
+	2. 섬 연결하기
+      - 
+
 - 2022-03-20
   - problem([Programmers - 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://programmers.co.kr/learn/courses/30/parts/12244))
     1. 조이스틱
