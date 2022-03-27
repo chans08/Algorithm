@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42883
   - solving
     1. 조이스틱
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_6_greedy/_2_joystick_other.java
 	2. 큰 수 만들기
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_6_greedy/_3_make_big_num_other_replay2.java
 
 - 2022-03-14
   - problem
