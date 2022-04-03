@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-04-03
+  - problem([Programmers - 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://programmers.co.kr/learn/courses/30/parts/12244))
+    1. 네트워크 연결
+      - https://www.acmicpc.net/problem/1922
+	2. 단속카메라
+      - https://programmers.co.kr/learn/courses/30/lessons/42884
+  - solving
+    1. 네트워크 연결
+      - 
+	2. 단속카메라
+      - 
+
 - 2022-03-27
   - problem([Programmers - 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://programmers.co.kr/learn/courses/30/parts/12244))
     1. 구명보트
