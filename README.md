@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42861
   - solving
     1. 구명보트
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_6_greedy/_4_life_boat_other_replay.java
 	2. 섬 연결하기
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_6_greedy/_5_connecting_islands2.java
 
 - 2022-03-20
   - problem([Programmers - 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://programmers.co.kr/learn/courses/30/parts/12244))
