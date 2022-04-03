@@ -4,9 +4,9 @@ daily algorithm solving records.
 ## Algorithmer3
 - 2022-04-03
   - problem
-    1. 네트워크 연결([Programmers - 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://programmers.co.kr/learn/courses/30/parts/12244))
+    1. 네트워크 연결(백준: 탐욕법)
       - https://www.acmicpc.net/problem/1922
-	2. 단속카메라(백준: 탐욕법)
+	2. 단속카메라([Programmers - 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://programmers.co.kr/learn/courses/30/parts/12244))
       - https://programmers.co.kr/learn/courses/30/lessons/42884
   - solving
     1. 네트워크 연결
