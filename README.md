@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42884
   - solving
     1. 네트워크 연결
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/mst/_1922_network_connection.java
 	2. 단속카메라
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_6_greedy/_6_surveilance_camera.java
 
 - 2022-03-27
   - problem([Programmers - 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://programmers.co.kr/learn/courses/30/parts/12244))
