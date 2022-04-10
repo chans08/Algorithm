@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-04-10
+  - problem([Programmers - 코딩테스트 고득점 Kit - 동적계획법(Dynamic Programming)](https://programmers.co.kr/learn/courses/30/parts/12263))
+    1. N으로 표현
+      - https://programmers.co.kr/learn/courses/30/lessons/42895
+	2. 정수 삼각형
+      - https://programmers.co.kr/learn/courses/30/lessons/43105
+  - solving
+    1. N으로 표현
+      - 
+	2. 정수 삼각형
+      - 
+
 - 2022-04-03
   - problem
     1. 네트워크 연결(백준: MST)
