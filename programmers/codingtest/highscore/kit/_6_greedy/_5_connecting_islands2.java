@@ -92,6 +92,6 @@ public class _5_connecting_islands2 {
 	//부모 노드(=부모노드가 자기 자신과 같은 노드) 찾기
 	private static int findParent(int[] parent, int node) {
 		if (parent[node] == node) return node;
-		return findParent(parent, parent[node]);
+		return parent[node] = findParent(parent, parent[node]); //부모노드를 갱신함으로써 다음번에 찾을 때 빠르게 찾을 수 있도록 한다.
 	}
 }

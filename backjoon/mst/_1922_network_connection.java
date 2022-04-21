@@ -58,6 +58,6 @@ public class _1922_network_connection {
 		if (parent[node] == node) {
 			return node;
 		}
-		return findParent(parent, parent[node]);
+		return parent[node] = findParent(parent, parent[node]); //부모 노드를 찾은 값으로 갱신함으로써 다음번에 찾을 때 빠르게 찾을 수 있다.
 	}
 }
