@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/43105
   - solving
     1. N으로 표현
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_7_dp/_1_expressed_as_n.java
 	2. 정수 삼각형
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_7_dp/_2_integer_triangle3.java
 
 - 2022-04-03
   - problem
