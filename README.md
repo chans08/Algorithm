@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-04-24
+  - problem([Programmers - 코딩테스트 고득점 Kit - 이분탐색)
+    1. 입국심사
+      - https://programmers.co.kr/learn/courses/30/lessons/43238
+	2. 징검다리
+      - https://programmers.co.kr/learn/courses/30/lessons/43236
+  - solving
+    1. 입국심사
+      - 
+	2. 징검다리
+      - 
+
 - 2022-04-17
   - problem([Programmers - 코딩테스트 고득점 Kit - 동적계획법(Dynamic Programming)](https://programmers.co.kr/learn/courses/30/parts/12263))
     1. 등굣길
