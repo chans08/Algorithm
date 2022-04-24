@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://programmers.co.kr/learn/courses/30/lessons/42897
   - solving
     1. 등굣길
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_7_dp/_3_road_to_school2.java
 	2. 도둑질
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_7_dp/_4_thievery.java
 
 - 2022-04-10
   - problem([Programmers - 코딩테스트 고득점 Kit - 동적계획법(Dynamic Programming)](https://programmers.co.kr/learn/courses/30/parts/12263))
