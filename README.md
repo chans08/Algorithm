@@ -3,7 +3,7 @@ daily algorithm solving records.
 
 ## Algorithmer3
 - 2022-05-01
-  - problem([BOJ - 이분탐색)](https://www.acmicpc.net/workbook/view/1395))
+  - problem([BOJ - 이분탐색](https://www.acmicpc.net/workbook/view/1395))
     1. 팰린드롬 만들기
       - https://www.acmicpc.net/problem/1695
 	2. 피자판매
@@ -15,7 +15,7 @@ daily algorithm solving records.
       - 
 
 - 2022-04-24
-  - problem([Programmers - 코딩테스트 고득점 Kit - 이분탐색)](https://programmers.co.kr/learn/courses/30/parts/12486))
+  - problem([Programmers - 코딩테스트 고득점 Kit - 이분탐색](https://programmers.co.kr/learn/courses/30/parts/12486))
     1. 입국심사
       - https://programmers.co.kr/learn/courses/30/lessons/43238
 	2. 징검다리
