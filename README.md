@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://www.acmicpc.net/problem/2632
   - solving
     1. 팰린드롬 만들기
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/binary_search/_1695_palindrome.java
 	2. 피자판매
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/binary_search/_2632_pizza_sales.java
 
 - 2022-04-24
   - problem([Programmers - 코딩테스트 고득점 Kit - 이분탐색](https://programmers.co.kr/learn/courses/30/parts/12486))
