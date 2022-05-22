@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://www.acmicpc.net/problem/2110
   - solving
     1. 나무 자르기
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/binary_search/_2805_cutting_tree2.java
 	2. 공유기 설치
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/binary_search/_2110_router_installation.java
 
 - 2022-05-01
   - problem([BOJ - 이분탐색](https://www.acmicpc.net/workbook/view/1395))
