@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-05-22
+  - problem([BOJ - 이분탐색](https://www.acmicpc.net/step/29))
+    1. 나무 자르기
+      - https://www.acmicpc.net/problem/2805
+	2. 공유기 설치
+      - https://www.acmicpc.net/problem/2110
+  - solving
+    1. 나무 자르기
+      - 
+	2. 공유기 설치
+      - 
+
 - 2022-05-01
   - problem([BOJ - 이분탐색](https://www.acmicpc.net/workbook/view/1395))
     1. 팰린드롬 만들기
