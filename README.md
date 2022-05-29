@@ -2,6 +2,18 @@
 daily algorithm solving records.
 
 ## Algorithmer3
+- 2022-05-29
+  - problem([BOJ - 그래프](https://programmers.co.kr/learn/courses/30/parts/14393))
+    1. 가장 먼 노드
+      - https://programmers.co.kr/learn/courses/30/lessons/49189
+	2. 순위
+      - https://programmers.co.kr/learn/courses/30/lessons/49191
+  - solving
+    1. 가장 먼 노드
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_10_graph/_1_farthest_node.java
+	2. 순위
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_10_graph/_2_ranking.java
+
 - 2022-05-22
   - problem([BOJ - 이분탐색](https://www.acmicpc.net/step/29))
     1. 나무 자르기
