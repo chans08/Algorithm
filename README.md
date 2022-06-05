@@ -3,6 +3,18 @@ daily algorithm solving records.
 
 ## Algorithmer3
 - 2022-05-29
+  - problem
+    1. 방의 개수([Programmers - 코딩테스트 고득점 Kit - 그래프](https://programmers.co.kr/learn/courses/30/parts/14393))
+      - https://programmers.co.kr/learn/courses/30/lessons/49190
+	2. DFS와 BFS([BOJ - 그래프])
+      - https://www.acmicpc.net/problem/1260
+  - solving
+    1. 방의 개수
+      - 
+	2. DFS와 BFS
+      - 
+
+- 2022-05-29
   - problem([BOJ - 그래프](https://programmers.co.kr/learn/courses/30/parts/14393))
     1. 가장 먼 노드
       - https://programmers.co.kr/learn/courses/30/lessons/49189
