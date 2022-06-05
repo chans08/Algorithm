@@ -10,9 +10,9 @@ daily algorithm solving records.
       - https://www.acmicpc.net/problem/1260
   - solving
     1. 방의 개수
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/programmers/codingtest/highscore/kit/_10_graph/_3_room_cnt2.java
 	2. DFS와 BFS
-      - 
+      - https://github.com/chans08/Algorithm/blob/master/backjoon/graph/_1260_dfs_bfs.java
 
 - 2022-05-29
   - problem([BOJ - 그래프](https://programmers.co.kr/learn/courses/30/parts/14393))
