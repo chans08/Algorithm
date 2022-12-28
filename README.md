@@ -3,6 +3,18 @@ daily algorithm solving records.
 
 ## Algorithmer3
 - 2022-05-29
+  - problem([Programmers - 2020 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges))
+    1. 문자열 압축
+      - https://programmers.co.kr/learn/courses/30/lessons/60057
+	2. 기둥과 보 설치
+      - https://programmers.co.kr/learn/courses/30/lessons/60061
+  - solving
+    1. 문자열 압축
+      - 
+	2. 기둥과 보 설치
+      - 
+
+- 2022-05-29
   - problem
     1. 방의 개수([Programmers - 코딩테스트 고득점 Kit - 그래프](https://programmers.co.kr/learn/courses/30/parts/14393))
       - https://programmers.co.kr/learn/courses/30/lessons/49190
