@@ -48,30 +48,27 @@ public class _14499_roll_the_dice {
             case 1: //동
                 if (y + 1 >= m) {
                     return true;
-                } else {
-                    return false;
                 }
+                break;
             case 2: //서
                 if (y - 1 < 0) {
                     return true;
-                } else {
-                    return false;
                 }
+                break;
             case 3: //북
                 if (x - 1 < 0) {
                     return true;
-                } else {
-                    return false;
                 }
+                break;
             case 4: //남
                 if (x + 1 >= n) {
                     return true;
-                } else {
-                    return false;
                 }
+                break;
             default:
                 throw new IllegalArgumentException("invalid command.");
         }
+        return false;
     }
 
     private static int top() {
@@ -94,7 +91,7 @@ public class _14499_roll_the_dice {
                 dice[3][1] = dice[1][2];
                 dice[1][2] = dice[1][1];
                 dice[1][1] = tmp;
-                y += 1;
+                y++;
                 break;
             case 2: //서
                 tmp = dice[1][0];
@@ -102,7 +99,7 @@ public class _14499_roll_the_dice {
                 dice[1][1] = dice[1][2];
                 dice[1][2] = dice[3][1];
                 dice[3][1] = tmp;
-                y -= 1;
+                y--;
                 break;
             case 3: //북
                 tmp = dice[0][1];
@@ -110,7 +107,7 @@ public class _14499_roll_the_dice {
                 dice[1][1] = dice[2][1];
                 dice[2][1] = dice[3][1];
                 dice[3][1] = tmp;
-                x -= 1;
+                x--;
                 break;
             case 4: //남
                 tmp = dice[3][1];
@@ -118,7 +115,7 @@ public class _14499_roll_the_dice {
                 dice[2][1] = dice[1][1];
                 dice[1][1] = dice[0][1];
                 dice[0][1] = tmp;
-                x += 1;
+                x++;
                 break;
             default:
                 throw new IllegalArgumentException("invalid command.");
